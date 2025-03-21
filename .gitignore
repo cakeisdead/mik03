@@ -1,6 +1,12 @@
 # CFDIS 
 *.xml
 
+# Other files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
